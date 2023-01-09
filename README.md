@@ -1,4 +1,7 @@
-[![MasterHead](https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)](https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+<p align='center'>
+  <img width='460' height='300' src='https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb'>
+ </p>
+![https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://images.unsplash.com/photo-1492571350019-22de08371fd3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
 # github Markdown
 
 # Hi there, 🖐️ I’m Jehonathan!
