@@ -56,12 +56,10 @@ In my free time, I enjoy discovering new music and working out 👟.
 <details><summary>Projects in codesandbox</summary>
 <p>
 
-#### We can hide anything, even code!
-* Javascript [balloon](https://c4bnt0.csb.app/).
-* React [color](https://lewosg.csb.app/).
+#### Yay! You have found a secret stash!
   
-- Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon 🎈!](https://c4bnt0.csb.app/)
-* Testing Redux Toolkit was so fun with this [change da color 🌈!](https://lewosg.csb.app/) game 
+- 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
+* 🌈 Testing Redux Toolkit was so fun with this [change da color](https://lewosg.csb.app/) game!
 + This is fun, right?
 
 
