@@ -58,8 +58,9 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 #### Yay! You have found a secret stash!
 
-```Right click to open projects in a new tab. 
-   Yes, I know...
+```
+  Right click to open projects in a new tab. 
+  Yes, I know...
 ```
   
 - 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
