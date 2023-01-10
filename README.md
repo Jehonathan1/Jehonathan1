@@ -2,7 +2,7 @@
 
 # 2023
 
-# Hi there, 🖐️ I’m Jehonathan!
+# Hi there, 🖐️ I’m Yehonatan!
 
 ### A passionate fullstack developer from the land of milk and honey!
 
