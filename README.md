@@ -52,7 +52,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-## Cool Projects With no Repo 
+## Cool Projects With N000 Repo 
 
 <details><summary>codesandbox</summary>
 <p>
