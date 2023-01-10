@@ -65,7 +65,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 ```
   
 - 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
-* 🌈 Testing Redux Toolkit was so fun with this [change da color](https://lewosg.csb.app/) game!
+* 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 + This is fun, right?
 
 </p>
