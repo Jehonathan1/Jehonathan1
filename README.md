@@ -63,10 +63,9 @@ In my free time, I enjoy discovering new music and working out 👟.
 <p>
 
 #### We can hide anything, even code!
+Javascript [balloon](https://c4bnt0.csb.app/).
+React [color](https://lewosg.csb.app/).
 
-```[balloon](https://c4bnt0.csb.app/)
-  [color](https://lewosg.csb.app/)
-```
 
 </p>
 </details>
