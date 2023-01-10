@@ -59,5 +59,17 @@ In my free time, I enjoy discovering new music and working out 👟.
   [color](https://lewosg.csb.app/)
 </details>
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```[balloon](https://c4bnt0.csb.app/)
+  [color](https://lewosg.csb.app/)
+```
+
+</p>
+</details>
+
 
 
