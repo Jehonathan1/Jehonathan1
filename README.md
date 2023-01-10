@@ -8,6 +8,9 @@ My focus is on creating intuitive and scalable user experiences using technologi
 In my free time, I enjoy discovering new music and working out 👟.
 
 ## Languages and Tools
+| Frontend | Backend |
+| <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> |
+
 <p align="left"> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
