@@ -10,7 +10,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 ## Languages and Tools
 
 <div>
-  <div align='left'>
+  <div>
     <span align='left'>
       <h3>Frontend</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -23,7 +23,7 @@ In my free time, I enjoy discovering new music and working out 👟.
     
   </div>
   
-  <div align='center'>
+  <div>
     <span align='left'>
       <h3>Backend</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -34,7 +34,7 @@ In my free time, I enjoy discovering new music and working out 👟.
     </span>
   </div>
   
-  <div align='right'>
+  <div>
     <span align='left'>
       <h3>Other Tools</h3>
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
