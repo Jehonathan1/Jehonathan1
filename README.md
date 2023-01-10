@@ -53,22 +53,16 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 ## Cool projects I've made somwhere else 
 
-<details>
-  <summary>Codesandbox</summary>
-  [balloon](https://c4bnt0.csb.app/)
-  [color](https://lewosg.csb.app/)
-</details>
-
-<details><summary>CLICK ME</summary>
+<details><summary>Projects in codesandbox</summary>
 <p>
 
 #### We can hide anything, even code!
 * Javascript [balloon](https://c4bnt0.csb.app/).
 * React [color](https://lewosg.csb.app/).
   
-- George Washington
-* John Adams
-+ Thomas Jefferson
+- Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon 🎈!](https://c4bnt0.csb.app/)
+* Testing Redux Toolkit was so fun with this [change da color 🌈!](https://lewosg.csb.app/) game 
++ This is fun, right?
 
 
 </p>
