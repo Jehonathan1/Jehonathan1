@@ -1,4 +1,5 @@
-[![Header](./profileGIF.gif)](https://yds-portfolio.vercel.app){:target='_blank'}
+<a href="https://yds-portfolio.vercel.app" target='_blank'>./profileGIF.gif</a>
+
 # Hi there, 🖐️ I’m Yehonatan!
 
 ### A passionate fullstack developer from the land of milk and honey!
