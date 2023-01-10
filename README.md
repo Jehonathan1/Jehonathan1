@@ -57,8 +57,10 @@ In my free time, I enjoy discovering new music and working out 👟.
 <p>
 
 #### Yay! You have found a secret stash!
+
   ```Right click to open projects in a new tab. 
-      Yes, I know...```
+   Yes, I know...
+```
   
 - 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
 * 🌈 Testing Redux Toolkit was so fun with this [change da color](https://lewosg.csb.app/) game!
