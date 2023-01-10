@@ -55,11 +55,11 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <details>
   <summary>Codesandbox</summary>
-  ```A fun JavaScript  project:
+  *A fun JavaScript  project:
   [balloon](https://c4bnt0.csb.app/)
   
-  Redux + async AJAX project:
-  [color](https://lewosg.csb.app/)```
+  *Redux + async AJAX project:
+  [color](https://lewosg.csb.app/)
 </details>
 
 
