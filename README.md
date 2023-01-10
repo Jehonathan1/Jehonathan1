@@ -10,7 +10,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 ## Languages and Tools
 
 <div>
-  <div>
+  <div align='left'>
     <h3>Frontend</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -20,8 +20,6 @@ In my free time, I enjoy discovering new music and working out 👟.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </div>
   
-  <hr>
-  
   <div align='center'>
     <h3>Backend</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -30,8 +28,6 @@ In my free time, I enjoy discovering new music and working out 👟.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </div>
-  
-  <hr>
   
   <div align='right'>
     <h3>Other Tools</h3>
