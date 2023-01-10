@@ -59,7 +59,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 #### Yay! You have found a secret stash!
 
 ```
-  Right click to open projects in a new tab. 
+  ##### Right click to open projects in a new tab. 
   Yes, I know...
 ```
   
