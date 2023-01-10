@@ -51,14 +51,14 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 ## Cool projects I've made somwhere else 
 
-<details><summary>CLICK ME</summary>
+
+```<details><summary>Codesandbox Projects</summary>
 <p>
 
 #### We can hide anything, even code!
-
-```ruby
+ruby
    puts "Hello World"
-```
+
 
 </p>
 </details>
@@ -66,3 +66,5 @@ In my free time, I enjoy discovering new music and working out 👟.
 [balloon - Yehonatan](https://c4bnt0.csb.app/)
 
 [https://codepen.io/Jehonathan/pen/MWGwVbX](https://codepen.io/Jehonathan/pen/MWGwVbX)
+
+```
