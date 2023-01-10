@@ -71,5 +71,22 @@ In my free time, I enjoy discovering new music and working out 👟.
 </p>
 </details>
 
+<details><summary>codepen</summary>
+<p>
+
+#### Felicitations! You made it to the second secret stash!
+  
+```
+  🦝 As before, please right click to open a project in a new tab. 
+  Yes, you are right...
+```
+  
+- 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
+* ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
++ This is noice, isn't it?
+
+</p>
+</details>
+
 
 
