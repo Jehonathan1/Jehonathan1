@@ -1,7 +1,8 @@
 ![Header](./profileGIF.gif)
-# Hi there, 🖐️ I’m Yehonatan!
 
-### A passionate fullstack developer from the land of milk and honey!
+# Hi There, 🖐️ I’m Yehonatan!
+
+### A Passionate Fullstack Developer From the Land of Milk and Honey!
 
 My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. I am always learning and staying up to date with the latest development trends. 
 
@@ -36,7 +37,7 @@ In my free time, I enjoy discovering new music and working out 👟.
   
   <div>
     <span align='left'>
-      <h3>Other Tools</h3>
+      <h3>Tools</h3>
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -51,15 +52,15 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-## Cool projects I've made somwhere else 
+## Cool Projects With no Repo 
 
-<details><summary>Projects in codesandbox</summary>
+<details><summary>codesandbox</summary>
 <p>
 
-#### Yay! You have found a secret stash!
+#### Yay! You have found the secret stash!
   
 ```
-  👾 Heads up! Right click to open projects in a new tab. 
+  👾 Heads up! Right click to open a project in a new tab. 
   Yes, I know...
 ```
   
