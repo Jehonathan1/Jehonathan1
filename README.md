@@ -52,19 +52,23 @@ In my free time, I enjoy discovering new music and working out 👟.
 ## Cool projects I've made somwhere else 
 
 
-```<details><summary>Codesandbox Projects</summary>
+<details><summary>Codesandbox Projects</summary>
 <p>
-
+```
 #### We can hide anything, even code!
-ruby
-   puts "Hello World"
-
-
-</p>
-</details>
-[balloon - Yehonatan](https://codesandbox.io/s/balloon-yehonatan-c4bnt0)
 [balloon - Yehonatan](https://c4bnt0.csb.app/)
 
-[https://codepen.io/Jehonathan/pen/MWGwVbX](https://codepen.io/Jehonathan/pen/MWGwVbX)
+#### We can hide anything, even code!
+[balloon - Yehonatan](https://c4bnt0.csb.app/)
 
+</p>
+  
+[balloon - Yehonatan](https://codesandbox.io/s/balloon-yehonatan-c4bnt0)
+
+
+[https://codepen.io/Jehonathan/pen/MWGwVbX](https://codepen.io/Jehonathan/pen/MWGwVbX)
 ```
+</details>
+
+
+
