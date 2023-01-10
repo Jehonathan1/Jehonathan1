@@ -54,12 +54,13 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <details><summary>Codesandbox Projects</summary>
 <p>
-```
 #### We can hide anything, even code!
-[balloon - Yehonatan](https://c4bnt0.csb.app/)
+  
+```[balloon - Yehonatan](https://c4bnt0.csb.app/)
 
 #### We can hide anything, even code!
 [balloon - Yehonatan](https://c4bnt0.csb.app/)
+  ```
 
 </p>
   
@@ -67,7 +68,6 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 
 [https://codepen.io/Jehonathan/pen/MWGwVbX](https://codepen.io/Jehonathan/pen/MWGwVbX)
-```
 </details>
 
 
