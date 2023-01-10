@@ -1,5 +1,4 @@
-<a href="https://yds-portfolio.vercel.app" target='_blank'>./profileGIF.gif</a>
-
+![Header](./profileGIF.gif)
 # Hi there, 🖐️ I’m Yehonatan!
 
 ### A passionate fullstack developer from the land of milk and honey!
