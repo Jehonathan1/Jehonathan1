@@ -49,7 +49,19 @@ In my free time, I enjoy discovering new music and working out 👟.
   </div>
 </div>
 
+## Cool projects I've made somwhere else 
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 [balloon - Yehonatan](https://codesandbox.io/s/balloon-yehonatan-c4bnt0)
 [balloon - Yehonatan](https://c4bnt0.csb.app/)
 
