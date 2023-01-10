@@ -49,23 +49,18 @@ In my free time, I enjoy discovering new music and working out 👟.
   </div>
 </div>
 
-## Cool projects I've made somwhere else 
-
-
-<details><summary>Codesandbox Projects</summary>
-<p>
-#### We can hide anything, even code!
-  
 ```
 [balloon - Yehonatan](https://c4bnt0.csb.app/)
 ```
 
-</p>
-  
-[balloon - Yehonatan](https://codesandbox.io/s/balloon-yehonatan-c4bnt0)
+<br>
 
+## Cool projects I've made somwhere else 
 
-[https://codepen.io/Jehonathan/pen/MWGwVbX](https://codepen.io/Jehonathan/pen/MWGwVbX)
+<details>
+  <summary>Codesandbox Projects</summary>
+  * A fun JavaScript [balloon](https://c4bnt0.csb.app/) project
+  * Redux + async AJAX [color](https://lewosg.csb.app/) project
 </details>
 
 
