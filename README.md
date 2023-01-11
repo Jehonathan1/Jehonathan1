@@ -54,12 +54,15 @@ In my free time, I enjoy discovering new music and working out 👟.
 <br>
 
 ### Felicitations! You've made it to my secret stash!
-######  The following projects by me didn't get a gitHub repo, but still worth mentioning! 
+####  The following projects that I've worked on did not receive a GitHub repository, but they are still worth mentioning: 
 
+<br>
 ```
   👾 Heads up! Right click to open a project in a new tab. 
   Yes, I know...
 ```
+<br>
+
 - 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
