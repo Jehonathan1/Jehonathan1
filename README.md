@@ -7,7 +7,7 @@ My focus is on creating intuitive and scalable user experiences using technologi
 
 In my free time, I enjoy discovering new music and working out 👟.
 
-😃 If you're interested, you can check out [my portfolio](https://yds-portfolio.vercel.app/)
+😃 If you're interested, you can check out [my portfolio](https://yds-portfolio.vercel.app/).
 
 ## Languages and Tools
 
@@ -50,7 +50,7 @@ In my free time, I enjoy discovering new music and working out 👟.
     </span>
   </div>
 </div>
-<hr style="border: 10px solid green;">
+
 <br>
 
 ### Felicitations! You've made it to my secret stash!
@@ -65,3 +65,9 @@ In my free time, I enjoy discovering new music and working out 👟.
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
+
+
+### Before you continue, did I mention I'm also a product designer?
+🚀 You are welcome to see some of my UX/UI work [here!](https://yehonatans-portfolio.webflow.io/)
+
+# Thank you for visiting my page!
