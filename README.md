@@ -68,7 +68,7 @@ The following projects that I've worked on did not receive a GitHub repository, 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
 
 
-### Before you continue, did I mention I'm also a product designer?
+# Lastly, did I mention I'm also a product designer?
 🚀 You are welcome to see some of my UX/UI work [here!](https://yehonatans-portfolio.webflow.io/)
 
-# Thank you for visiting my page!
+Thank you for visiting my page!
