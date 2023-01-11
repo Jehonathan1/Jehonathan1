@@ -54,7 +54,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 <br>
 
 ### Felicitations! You've made it to my secret stash!
-####  The following projects that I've worked on did not receive a GitHub repository, but they are still worth mentioning: 
+The following projects that I've worked on did not receive a GitHub repository, but they are still worth mentioning: 
 ---
 ```
   👾 Heads up! Right click to open a project in a new tab. 
