@@ -8,7 +8,7 @@ My focus is on creating intuitive and scalable user experiences using technologi
 
 In my free time, I enjoy discovering new music and working out 👟.
 
-<button type="button"><a href="https://yds-portfolio.vercel.app/">My Portfolio</a></button>
+😃 If you're interested, you can check out [my portfolio](https://yds-portfolio.vercel.app/)
 
 ## Languages and Tools
 
