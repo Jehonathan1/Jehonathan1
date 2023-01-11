@@ -53,7 +53,8 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-### Felicitations! You've made it to my secret stash of other projects by me that didn't get a gitHub repo 
+### Felicitations! You've made it to my secret stash!
+######  The following projects by me didn't get a gitHub repo, but still worth mentioning! 
 
 ```
   👾 Heads up! Right click to open a project in a new tab. 
@@ -63,4 +64,3 @@ In my free time, I enjoy discovering new music and working out 👟.
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
-+ This is noice, isn't it?
