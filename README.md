@@ -1,8 +1,7 @@
 ![Header](./profileGIF.gif)
 
-# Hi There, 🖐️ I’m Yehonatan!
-
-### A Passionate Fullstack Developer From the Land of Milk and Honey!
+# Felicitations! You've made it to my secret stash!
+### I’m Yehonatan 🖐️! A Passionate Fullstack Developer From the Land of Milk and Honey!
 
 My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. I am always learning and staying up to date with the latest development trends. 
 
@@ -54,41 +53,14 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-## Cool Projects With N000 Repo 
+## Projects by Me That Didn't Get a Repo 
 
-<details><summary>codesandbox</summary>
-<p>
-
-#### Yay! You have found the secret stash!
-  
 ```
   👾 Heads up! Right click to open a project in a new tab. 
   Yes, I know...
 ```
-  
 - 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
-+ This is fun, right?
-
-</p>
-</details>
-
-<details><summary>codepen</summary>
-<p>
-
-#### Felicitations! You made it to the second secret stash!
-  
-```
-  🦝 As before, please right click to open a project in a new tab. 
-  Yes, you are right...
-```
-  
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
 + This is noice, isn't it?
-
-</p>
-</details>
-
-
-
