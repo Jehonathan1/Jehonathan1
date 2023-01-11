@@ -50,7 +50,7 @@ In my free time, I enjoy discovering new music and working out 👟.
     </span>
   </div>
 </div>
-<hr style="height:1px;">
+<hr style="border: 10px solid green;">
 <br>
 
 ### Felicitations! You've made it to my secret stash!
