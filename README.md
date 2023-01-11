@@ -1,7 +1,8 @@
 ![Header](./profileGIF.gif)
 
 # Felicitations! You've made it to my secret stash!
-### I’m Yehonatan 🖐️! A Passionate Fullstack Developer From the Land of Milk and Honey!
+### I’m Yehonatan 🖐️
+### A Passionate Fullstack Developer From the Land of Milk and Honey!
 
 My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. I am always learning and staying up to date with the latest development trends. 
 
