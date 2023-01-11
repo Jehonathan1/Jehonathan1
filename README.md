@@ -1,7 +1,6 @@
 ![Header](./profileGIF.gif)
 
-# Felicitations! You've made it to my secret stash!
-### I’m Yehonatan 🖐️
+# Hi 🖐️ I’m Yehonatan!
 ### A Passionate Fullstack Developer From the Land of Milk and Honey!
 
 My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. I am always learning and staying up to date with the latest development trends. 
@@ -54,7 +53,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-## Projects by Me That Didn't Get a Repo 
+### Felicitations! You've made it to my secret stash of other projects by me that didn't get a gitHub repo 
 
 ```
   👾 Heads up! Right click to open a project in a new tab. 
