@@ -7,7 +7,7 @@ My focus is on creating intuitive and scalable user experiences using technologi
 
 In my free time, I enjoy discovering new music and working out 👟.
 
-😃 If you're interested, you can check out [my portfolio](https://yds-portfolio.vercel.app/).
+😃 If you're interested, you can check out [my web dev portfolio](https://yds-portfolio.vercel.app/).
 
 ## Languages and Tools
 
@@ -53,7 +53,12 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 <br>
 
-# Felicitations! You've made it to my secret stash! 
+<details><summary>More Code!</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```# Felicitations! You've made it to my secret stash! 
 
 The following projects that I've worked on did not receive a GitHub repository, but they are still worth mentioning:
 
@@ -66,6 +71,11 @@ The following projects that I've worked on did not receive a GitHub repository, 
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
+```
+
+</p>
+</details>
+
 
 
 # Lastly, did I mention that I'm also into UX/UI?
