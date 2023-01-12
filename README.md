@@ -78,4 +78,4 @@ The following projects that I've worked on did not receive a GitHub repository, 
 
 <hr>
 
-# Thank you for visiting my page!
+### Thank you for visiting my page!
