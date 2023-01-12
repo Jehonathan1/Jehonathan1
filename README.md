@@ -3,11 +3,12 @@
 # Hi 🖐️ I’m Yehonatan!
 ### A Passionate Fullstack Developer From the Land of Milk and Honey!
 
-My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. I am always learning and staying up to date with the latest development trends. 
+My focus is on creating intuitive and scalable user experiences using technologies such as React, Node.js, and MongoDB. 
+I am always learning and staying up to date with the latest development trends. 
 
 In my free time, I enjoy discovering new music and working out 👟.
 
-😃 If you're interested, you can check out [my web dev portfolio](https://yds-portfolio.vercel.app/).
+😃 If you're interested, you can check out [my web dev portfolio here!](https://yds-portfolio.vercel.app/).
 
 ### Did I mention that I'm also into UX/UI?
 🚀 You are welcome to see some of my [UX/UI work here!](https://yehonatans-portfolio.webflow.io/)
