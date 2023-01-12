@@ -9,6 +9,9 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 😃 If you're interested, you can check out [my web dev portfolio](https://yds-portfolio.vercel.app/).
 
+### Did I mention that I'm also into UX/UI?
+🚀 You are welcome to see some of my [UX/UI work here!](https://yehonatans-portfolio.webflow.io/)
+
 ## Languages and Tools
 
 <div>
@@ -51,9 +54,8 @@ In my free time, I enjoy discovering new music and working out 👟.
   </div>
 </div>
 
-<br>
 <hr>
-<details><summary>More Code!</summary>
+<details><summary>Psssst! More Code Here!!</summary>
 <p>
 
 # Felicitations! You've made it to my secret stash! 
@@ -72,9 +74,6 @@ The following projects that I've worked on did not receive a GitHub repository, 
 </p>
 </details>
 
-
-
-# Lastly, did I mention that I'm also into UX/UI?
-🚀 You are welcome to see some of my UX/UI work [here!](https://yehonatans-portfolio.webflow.io/)
+<hr>
 
 Thank you for visiting my page!
