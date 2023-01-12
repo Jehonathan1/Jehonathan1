@@ -11,6 +11,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 
 ### Did I mention that I'm also into UX/UI?
 🚀 You are welcome to see some of my [UX/UI work here!](https://yehonatans-portfolio.webflow.io/)
+🚀 Some other cool things i've made can be found [here](https://www.youtube.com/watch?v=LfuXVAYwS4U/)
 
 ## Languages and Tools
 
