@@ -69,10 +69,10 @@ The following projects that I've worked on did not receive a GitHub repository, 
   Yes, I know...
 ```
 
-* 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
+* 🌈 Redux Toolkit made fun with this [change da color](https://codesandbox.io/s/rtk--counter---yds-lewosg) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx)
-- 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://c4bnt0.csb.app/) 
+- 🎈 Fun JavaScript game for the DOM and clickEvents lovers: [Pop da balloon!](https://codesandbox.io/s/balloon-yehonatan-c4bnt0)
 
 </p>
 </details>
