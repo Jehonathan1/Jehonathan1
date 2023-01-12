@@ -52,7 +52,7 @@ In my free time, I enjoy discovering new music and working out 👟.
 </div>
 
 <br>
-
+<hr>
 <details><summary>More Code!</summary>
 <p>
 
