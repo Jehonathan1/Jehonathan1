@@ -56,14 +56,10 @@ In my free time, I enjoy discovering new music and working out 👟.
 <details><summary>More Code!</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```# Felicitations! You've made it to my secret stash! 
+# Felicitations! You've made it to my secret stash! 
 
 The following projects that I've worked on did not receive a GitHub repository, but they are still worth mentioning:
-
-```
-  👾 Heads up! Right click to open a project in a new tab. 
+```👾 Heads up! Right click to open a project in a new tab. 
   Yes, I know...
 ```
 
@@ -71,7 +67,6 @@ The following projects that I've worked on did not receive a GitHub repository, 
 * 🌈 Redux Toolkit made fun with this [change da color](https://lewosg.csb.app/) game!
 - 📆 JavaScript tool that will help you [filter dates](https://codepen.io/Jehonathan/pen/ZEjYrqe) 
 * ✒️ Yet another JavaScript tool that will help you [limit text inputs](https://codepen.io/Jehonathan/pen/yLjJZBx) 
-```
 
 </p>
 </details>
